@@ -113,6 +113,7 @@ Encryptor
 Encryptors
 Enqueue
 Eron
+FADV
 FALLOC
 FALLTHROUGH
 FH
@@ -123,6 +124,8 @@ FNV
 FORALL
 FOREACH
 FS
+FSTREAM
+FTRUNCATE
 FULLFSYNC
 FindClose
 FindFirstFile
@@ -171,6 +174,7 @@ Intra
 Ippokratis
 Iu
 JIRA
+JNI
 JPEG
 JSON
 Jyrki
@@ -264,6 +268,7 @@ PRIu
 PRNG
 PTHREAD
 PTR
+PackTest
 Pandis
 Phong
 PlatformSDK
@@ -361,6 +366,7 @@ VLDB
 VMSG
 VR
 VX
+Valgrind
 Vc
 Vfprintf
 Vigenere
@@ -593,6 +599,7 @@ difftime
 dir
 dirlist
 disjunction
+disjunctions
 dlclose
 dlh
 dll
@@ -946,6 +953,7 @@ pclose
 pcpu
 perf
 pfx
+pluggable
 popen
 poptable
 popthreads
@@ -955,6 +963,7 @@ posint
 posix
 postsize
 powerpc
+ppc
 pragmas
 pre
 pread
@@ -1221,5 +1230,6 @@ xxxxx
 xxxxxx
 zalloc
 zfree
+zipfian
 zlib
 zu
